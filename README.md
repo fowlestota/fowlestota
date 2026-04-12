@@ -1,16 +1,23 @@
-## Hi there 👋
+### About me
+Heyo, I'm FowlestOTA. I am a game developer and musician based in Florida, United States.
 
-<!--
-**fowlestota/fowlestota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My experience
+I have used the following programming languages:
+- Python
+- GDScript
+- JavaScript
+- Haxe
+- C#
+- C++
+- Assembly
 
-Here are some ideas to get you started:
+### Facts about me
+Here are some interesting facts about me and my work:
+- I started in late 2019, at 8 years old
+- My first ever real project was a mod for the game Friday Night Funkin'
+- I've made a kernel for an operating system, bootable with GRUB and with a Busybox userspace
+- I have released multiple games from the ages of 10 to 14 at the time of writing this README.
+- I bought FL Studio at 11
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+If you'd like to reach out to me, shoot me a DM on Discord at `@fowlestota`!
