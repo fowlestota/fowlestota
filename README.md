@@ -20,4 +20,4 @@ Here are some interesting facts about me and my work:
 - I bought FL Studio at 11
 
 ### Contact
-If you'd like to reach out to me, shoot me a DM on Discord at `@fowlestota`!
+If you'd like to reach out to me, shoot me a DM on Discord at `@_skyebleuu`!
